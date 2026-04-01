@@ -1,0 +1,13 @@
+@multi.py 关于这个代码，你看一下他在做什么事情。这里他有一个思路，就是@multi.py (195-203) 代码每次在append原视频的时候，会根据输出决定额外是否要加入新的修改图片，然后如果图片中某些情况下会被dummy_image_path给替换
+
+
+我现在希望@AScripts/ceval1oss/4subtol_lzh.py 你改一下这个代码，算法原来在第二轮只输入一个视频：
+@4subtol_my.py (396-409) 
+但是我现在希望，pose_estimation或者person_detection有一个是yes的时候，算法能输出两个视频，第一个是原视频，第二个是的相应视频，但是这里添加方式我希望和@multi.py 这个代码一样，创建一个dummy 视频，如果pose_estimation和person_detection都是no，那么就调用dummy 视频，这样就保证了第二轮总会调用两个视频而不是有时候调用一个视频有时候调用两个视频
+
+不，现在的@4subtol_lzh.py (324-342) 这个函数实际上应该是计算第二个视频second_video_path的路径，第一个视频video_path实际上应该还是os.path.join(base_path, x_path)这个原路径，
+此外第二个视频second_video_path的路径需要@4subtol_lzh.py (328-338) 根据这里答案的不同变成三个，你给我三个地方分别输入这三个video path吧，原来@4subtol_lzh.py (56-57) 这个参数就不需要用了
+
+好的，接下来请你再看一下这个代码@self_recogn.py ，告诉我这个代码是怎么把第二轮的额外的图片结果加进去的，和我们目前的代码有什么不一样的地方吗？
+
+除了动态添加策略，其余地方争取还是和@AScripts/ceval1oss/4subtol_lzh_backup.py 原来一样吧，比如第二轮的prompt

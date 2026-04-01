@@ -1,0 +1,161 @@
+
+
+python api_image.py \
+--input-json /mnt/xmap_nas_alg/yzl/Recognition_Github/AFile/json/hmdb51/test.json \
+--data-root /mnt/xmap_nas_alg/yzl/Recognition/AFile/datasets/hmdb51
+
+
+
+
+python api_image.py \
+--input-json /mnt/xmap_nas_alg/yzl/Recognition_Github/AFile/json/hmdb51/val.json \
+--data-root /mnt/xmap_nas_alg/yzl/Recognition/AFile/datasets/hmdb51
+
+
+
+
+
+python api_image.py \
+--input-json /mnt/xmap_nas_alg/yzl/Recognition_Github/AFile/json_split/hmdb51/hmdb_exp_split_1.json \
+--data-root /mnt/xmap_nas_alg/yzl/Recognition/AFile/datasets/hmdb51
+
+
+
+
+python api_image.py \
+--input-json /mnt/xmap_nas_alg/yzl/Recognition_Github/AFile/json_split/hmdb51/hmdb_exp_split_2.json \
+--data-root /mnt/xmap_nas_alg/yzl/Recognition/AFile/datasets/hmdb51
+
+
+
+
+python api_image.py \
+--input-json /mnt/xmap_nas_alg/yzl/Recognition_Github/AFile/json_split/hmdb51/hmdb_exp_split_3.json \
+--data-root /mnt/xmap_nas_alg/yzl/Recognition/AFile/datasets/hmdb51
+
+
+
+
+python api_image.py \
+--input-json /mnt/xmap_nas_alg/yzl/Recognition_Github/AFile/json_split/hmdb51/hmdb_exp_split_full.json \
+--data-root /mnt/xmap_nas_alg/yzl/Recognition/AFile/datasets/hmdb51
+
+
+
+
+
+
+python api_image.py \
+--input-json /mnt/xmap_nas_alg/yzl/Recognition_Github/AFile/json/kinetics400/test.json \
+--data-root /mnt/xmap_nas_alg/yzl/Recognition/mmaction2/data/kinetics400/videos_train_2/compress/val
+
+
+
+
+python api_image.py \
+--input-json /mnt/xmap_nas_alg/yzl/Recognition_Github/AFile/json/kinetics400/val.json \
+--data-root /mnt/xmap_nas_alg/yzl/Recognition/mmaction2/data/kinetics400/videos_train_2/compress/val
+
+
+
+
+
+python api_image.py \
+--input-json /mnt/xmap_nas_alg/yzl/Recognition_Github/AFile/json/SSv2/test.json \
+--data-root /mnt/xmap_nas_alg/yzl/Recognition/mmaction2/data/SSv2/SSv2/20bn-something-something-v2
+
+
+
+
+python api_image.py \
+--input-json /mnt/xmap_nas_alg/yzl/Recognition_Github/AFile/json/SSv2/train.json \
+--data-root /mnt/xmap_nas_alg/yzl/Recognition/mmaction2/data/SSv2/SSv2/20bn-something-something-v2
+
+
+
+
+python api_image.py \
+--input-json /mnt/xmap_nas_alg/yzl/Recognition_Github/AFile/json/SSv2/val.json \
+--data-root /mnt/xmap_nas_alg/yzl/Recognition/mmaction2/data/SSv2/SSv2/20bn-something-something-v2
+
+
+
+
+
+python api_image.py \
+--input-json /mnt/xmap_nas_alg/yzl/Recognition_Github/AFile/json/ucf101/test.json \
+--data-root /mnt/xmap_nas_alg/yzl/Recognition/mmaction2/data/ucf101/UCF-101
+
+
+
+
+python api_image.py \
+--input-json /mnt/xmap_nas_alg/yzl/Recognition_Github/AFile/json/ucf101/train.json \
+--data-root /mnt/xmap_nas_alg/yzl/Recognition/mmaction2/data/ucf101/UCF-101
+
+
+
+
+python api_image.py \
+--input-json /mnt/xmap_nas_alg/yzl/Recognition_Github/AFile/json/ucf101/val.json \
+--data-root /mnt/xmap_nas_alg/yzl/Recognition/mmaction2/data/ucf101/UCF-101
+
+
+
+
+python api_image.py \
+--input-json /mnt/xmap_nas_alg/yzl/Recognition_Github/AFile/json/ucf101/traintestval.json \
+--data-root /mnt/xmap_nas_alg/yzl/Recognition/mmaction2/data/ucf101/UCF-101
+
+
+
+
+
+
+python api_image.py \
+--input-json /mnt/xmap_nas_alg/yzl/Recognition_Github/AFile/json_split/Kinetics-600-val/k600_split_1.json \
+--data-root /mnt/xmap_nas_alg/yzl/Recognition/mmaction2/data/Kinetics-600-val/share/common/VideoDatasets/Kinetics-600/videos/val_256
+
+
+
+
+python api_image.py \
+--input-json /mnt/xmap_nas_alg/yzl/Recognition_Github/AFile/json_split/Kinetics-600-val/k600_split_2.json \
+--data-root /mnt/xmap_nas_alg/yzl/Recognition/mmaction2/data/Kinetics-600-val/share/common/VideoDatasets/Kinetics-600/videos/val_256
+
+
+
+
+python api_image.py \
+--input-json /mnt/xmap_nas_alg/yzl/Recognition_Github/AFile/json_split/Kinetics-600-val/k600_split_3.json \
+--data-root /mnt/xmap_nas_alg/yzl/Recognition/mmaction2/data/Kinetics-600-val/share/common/VideoDatasets/Kinetics-600/videos/val_256
+
+
+
+
+
+
+python api_image.py \
+--input-json /mnt/xmap_nas_alg/yzl/Recognition_Github/AFile/json_split/ucf101/ucf_split_1.json \
+--data-root /mnt/xmap_nas_alg/yzl/Recognition/mmaction2/data/ucf101/UCF-101
+
+
+
+
+python api_image.py \
+--input-json /mnt/xmap_nas_alg/yzl/Recognition_Github/AFile/json_split/ucf101/ucf_split_2.json \
+--data-root /mnt/xmap_nas_alg/yzl/Recognition/mmaction2/data/ucf101/UCF-101
+
+
+
+
+python api_image.py \
+--input-json /mnt/xmap_nas_alg/yzl/Recognition_Github/AFile/json_split/ucf101/ucf_split_3.json \
+--data-root /mnt/xmap_nas_alg/yzl/Recognition/mmaction2/data/ucf101/UCF-101
+
+
+
+
+python api_image.py \
+--input-json /mnt/xmap_nas_alg/yzl/Recognition_Github/AFile/json_split/ucf101/ucf_split_full.json \
+--data-root /mnt/xmap_nas_alg/yzl/Recognition/mmaction2/data/ucf101/UCF-101

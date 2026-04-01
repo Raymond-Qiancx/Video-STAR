@@ -1,0 +1,1 @@
+/mnt/xmap_nas_alg/yzl/Recognition/mmaction2/data/SSv2/SSv2/20bn-something-something-v2

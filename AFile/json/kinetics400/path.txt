@@ -1,0 +1,1 @@
+/mnt/xmap_nas_alg/yzl/Recognition/mmaction2/data/kinetics400/videos_train_2/compress/val

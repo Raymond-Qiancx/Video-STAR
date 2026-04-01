@@ -1,0 +1,1 @@
+/mnt/xmap_nas_alg/yzl/Recognition/AFile/datasets/hmdb51
