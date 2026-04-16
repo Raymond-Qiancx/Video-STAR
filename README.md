@@ -1,4 +1,4 @@
-# Video-STAR: Reinforcing Open-Vocabulary Action Recognition with Tools
+# 【ICLR2026】Video-STAR: Reinforcing Open-Vocabulary Action Recognition with Tools
 
 [![arXiv Paper](https://img.shields.io/badge/arXiv-Paper-b31b1b.svg)](https://arxiv.org/pdf/2510.08480)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
@@ -415,11 +415,13 @@ AFile/json_split/
 If you find our work helpful for your research, please consider citing:
 
 ```bibtex
-@article{yuan2026videostar,
-  title={Video-STAR: Reinforcing Open-Vocabulary Action Recognition with Tools},
-  author={Yuan, Zhenlong and Qu, Xiangyan and Qian, Chengxuan and Chen, Rui and Tang, Jing and Sun, Lei and Chu, Xiangxiang and Zhang, Dapeng and Wang, Yiwei and Cai, Yujun and Li, Shuo},
-  journal={arXiv preprint arXiv:2510.08480},
-  year={2026}
+@inproceedings{
+    yuan2026videostar,
+    title={Video-STAR: Reinforcing Open-Vocabulary Action Recognition with Tools},
+    author={Yuan, Zhenlong and Qu, Xiangyan and Qian, Chengxuan and Chen, Rui and Tang, Jing and Sun, Lei and Chu, Xiangxiang and Zhang, Dapeng and Wang, Yiwei and Cai, Yujun and Li, Shuo},
+    booktitle={The Fourteenth International Conference on Learning Representations},
+    year={2026},
+    url={https://openreview.net/forum?id=NBOHB6aYZh}
 }
 ```
 
