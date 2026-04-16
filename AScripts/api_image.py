@@ -20,7 +20,7 @@ import numpy as np
 #     --data-root /mnt/xmap_nas_alg/yzl/Recognition/AFile/datasets/hmdb51
 
 # API配置
-DASHSCOPE_API_KEY = 'sk-23fab9350acd4ba5bf99e3b0ce1a23b8'
+DASHSCOPE_API_KEY = ''
 
 def detect_json_format(annotations):
     """
