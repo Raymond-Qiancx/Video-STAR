@@ -90,6 +90,9 @@ recognition/
 └── README.md
 ```
 
+[!NOTE]
+The training resources specifically for the Something-Something V2 dataset will be available soon.
+
 ---
 
 ## 🔍 Dataset
