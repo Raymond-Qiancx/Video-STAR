@@ -6,7 +6,7 @@
 [[📖 Paper](https://arxiv.org/pdf/2510.08480)] [[🤗 Video-STAR-3B](https://huggingface.co/GD-ML/Video-STAR-3B)] [[🤗 Video-STAR-3B-COT-SFT](https://huggingface.co/GD-ML/Video-STAR-3B-COT-SFT)] [[🤗 Video-STAR-7B](https://huggingface.co/GD-ML/Video-STAR-7B)] [[🤗 Video-STAR-7B-COT-SFT](https://huggingface.co/GD-ML/Video-STAR-7B-COT-SFT)]
 
 <p align="center">
-    <img src="./images/1.png" width="90%" height="90%">
+    <img src="./Images/1.png" width="90%" height="90%">
 </p>
 
 ## 👀 About Video-STAR
@@ -37,7 +37,7 @@ Unlike prior methods that treat actions as monolithic entities, Video-STAR innov
 ## 🏗️ Architecture
 
 <p align="center">
-    <img src="./images/2.png" width="90%" height="90%">
+    <img src="./Images/2.png" width="90%" height="90%">
 </p>
 
 <p align="left">
