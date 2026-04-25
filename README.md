@@ -1,4 +1,8 @@
-# 【ICLR2026】Video-STAR: Reinforcing Open-Vocabulary Action Recognition with Tools
+# Video-STAR: Reinforcing Open-Vocabulary Action Recognition with Tools
+
+<h3 align="center">
+  ICLR 2026
+</h3>
 
 [![arXiv Paper](https://img.shields.io/badge/arXiv-Paper-b31b1b.svg)](https://arxiv.org/pdf/2510.08480)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
