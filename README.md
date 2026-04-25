@@ -1,13 +1,37 @@
-# Video-STAR: Reinforcing Open-Vocabulary Action Recognition with Tools
+<h1 align="center">
+  🦦 Video-STAR: Reinforcing Open-Vocabulary Action Recognition with Tools
+</h1>
 
 <h3 align="center">
   ICLR 2026
 </h3>
 
-[![arXiv Paper](https://img.shields.io/badge/arXiv-Paper-b31b1b.svg)](https://arxiv.org/pdf/2510.08480)
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+<p align="center">
+  <b>Zhenlong Yuan</b><sup>*†</sup>, <b>Xiangyan Qu</b><sup>*</sup>, <b>Chengxuan Qian</b><sup>§</sup>, <b>Rui Chen</b>, <b>Jing Tang</b>,<br>
+  <b>Lei Sun</b><sup>‡</sup>, <b>Xiangxiang Chu</b>, <b>Dapeng Zhang</b>, <b>Yiwei Wang</b>, <b>Yujun Cai</b><sup>§</sup>, <b>Shuo Li</b>
+</p>
 
-[[📖 Paper](https://arxiv.org/pdf/2510.08480)] [[🤗 Video-STAR-3B](https://huggingface.co/GD-ML/Video-STAR-3B)] [[🤗 Video-STAR-3B-COT-SFT](https://huggingface.co/GD-ML/Video-STAR-3B-COT-SFT)] [[🤗 Video-STAR-7B](https://huggingface.co/GD-ML/Video-STAR-7B)] [[🤗 Video-STAR-7B-COT-SFT](https://huggingface.co/GD-ML/Video-STAR-7B-COT-SFT)]
+<p align="center">
+  <sup>*</sup> Equal contribution &nbsp;&nbsp; <sup>‡</sup> Project Lead &nbsp;&nbsp; <sup>§</sup> Corresponding Author
+</p>
+
+<p align="center">
+  <a href="https://arxiv.org/pdf/2510.08480">
+    <img src="https://img.shields.io/badge/📄-PAPER-000000?style=for-the-badge" alt="Paper">
+  </a>
+  <a href="https://huggingface.co/GD-ML/Video-STAR-3B-COT-SFT">
+    <img src="https://img.shields.io/badge/🤗-SFT_MODEL_3B-FF7F50?style=for-the-badge" alt="SFT Model 3B">
+  </a>
+  <a href="https://huggingface.co/GD-ML/Video-STAR-3B">
+    <img src="https://img.shields.io/badge/🤗-RL_MODEL_3B-FF7F50?style=for-the-badge" alt="RL Model 3B">
+  </a>
+  <a href="https://huggingface.co/GD-ML/Video-STAR-7B-COT-SFT">
+    <img src="https://img.shields.io/badge/🤗-SFT_MODEL_7B-FF7F50?style=for-the-badge" alt="SFT Model 7B">
+  </a>
+  <a href="https://huggingface.co/GD-ML/Video-STAR-7B">
+    <img src="https://img.shields.io/badge/🤗-RL_MODEL_7B-FF7F50?style=for-the-badge" alt="RL Model 7B">
+  </a>
+</p>
 
 <p align="center">
     <img src="./Images/1.png" width="90%" height="90%">
